@@ -4,11 +4,7 @@ Real time Prediction of Parking Space Availability based on Deep Learning using 
 
 | 1 | 2 | 3 | 4 |
 | --- | --- | --- | --- |
-| ![1](https://github.com/oumaimabenaboud/Real-time-Prediction-of-Parking-Space-Availability-based-on-Deep-Learning/assets/120368654/ddbb6a30-43cf-443e-ad69-322e111ee49e)
- | ![2](https://github.com/oumaimabenaboud/Real-time-Prediction-of-Parking-Space-Availability-based-on-Deep-Learning/assets/120368654/ec02fbed-fe13-43bb-b963-e55d6be01357)
- |![3](https://github.com/oumaimabenaboud/Real-time-Prediction-of-Parking-Space-Availability-based-on-Deep-Learning/assets/120368654/78675b5a-9079-4dc7-ae12-207e9147c0a6)
- | ![4](https://github.com/oumaimabenaboud/Real-time-Prediction-of-Parking-Space-Availability-based-on-Deep-Learning/assets/120368654/2527ec00-ee16-4a26-830a-0b089aa8d84c)
-|
+| ![1](https://github.com/oumaimabenaboud/Real-time-Prediction-of-Parking-Space-Availability-based-on-Deep-Learning/assets/120368654/ddbb6a30-43cf-443e-ad69-322e111ee49e) | ![2](https://github.com/oumaimabenaboud/Real-time-Prediction-of-Parking-Space-Availability-based-on-Deep-Learning/assets/120368654/ec02fbed-fe13-43bb-b963-e55d6be01357) |![3](https://github.com/oumaimabenaboud/Real-time-Prediction-of-Parking-Space-Availability-based-on-Deep-Learning/assets/120368654/78675b5a-9079-4dc7-ae12-207e9147c0a6) | ![4](https://github.com/oumaimabenaboud/Real-time-Prediction-of-Parking-Space-Availability-based-on-Deep-Learning/assets/120368654/2527ec00-ee16-4a26-830a-0b089aa8d84c) |
 | 5 | 6 | 7 | 8 |
 | ![5](https://github.com/oumaimabenaboud/Question-Answering-Chatbot-NLP/assets/120368654/c0ff0562-f375-4e16-abab-57c3aa4900b5) | ![6](https://github.com/oumaimabenaboud/Question-Answering-Chatbot-NLP/assets/120368654/f2115461-4a54-4bde-b3cc-5f0dd0b0e41a) | ![7](https://github.com/oumaimabenaboud/Question-Answering-Chatbot-NLP/assets/120368654/74f081cd-163b-4fde-8bf9-7e0bc4d2cde9) | ![8](https://github.com/oumaimabenaboud/Question-Answering-Chatbot-NLP/assets/120368654/28bd39b8-dcef-4d0b-b7d4-bb7c6e6a49ff) |
 | 9 | 10 | 11 | 12 |
